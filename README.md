@@ -14,8 +14,8 @@ Median
 Mode
 # Measures of Variability
 The measures of central tendency aren’t sufficient to describe data. You’ll also need the measures of variability that quantify the spread of data points.
-Variance
-Standard deviation
-Skewness
-Percentiles
-Ranges
+## Variance,
+## Standard deviation,
+## Skewness,
+## Percentiles,
+## Ranges,
